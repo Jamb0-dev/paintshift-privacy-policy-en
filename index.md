@@ -1,3 +1,4 @@
+[日本語版プライバシーポリシー](https://jamb0-dev.github.io/paintshift-privacy-policy-ja/)
 # Privacy Policy
 
 This privacy policy is applicable to the Paint Shift app (hereinafter referred to as "Application") for mobile devices, which was developed by Jambo (hereinafter referred to as "Service Provider") as an Ad-supported service. This service is provided "AS IS".
